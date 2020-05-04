@@ -1,0 +1,41 @@
+{
+    "products": {
+        "entities": {
+            "0.045288153786040786": {
+                "$$justAdded": false,
+                "id": 0.045288153786040786,
+                "serialNumber": "011111111",
+                "maskedSerial": "1-11-111-11",
+                "articleNumber": "61600113241",
+                "model": null,
+                "registered": false,
+                "stolen": false,
+                "recallActive": false,
+                "purchaseDate": "2019-11-8",
+                "dateObj": {
+                    "date": {
+                        "year": 2019,
+                        "month": 11,
+                        "day": 8
+                    },
+                    "jsdate": "2019-11-07T16:00:00.000Z",
+                    "formatted": "08.11.2019",
+                    "epoc": 1573142400
+                },
+                "dealerId": "0019000810",
+                "leased": false,
+                "motomix": false,
+                "$$errorMessage": "",
+                "$$limitExceeded": false,
+                "$$valid": true,
+                "$$dateCleared": false,
+                "$$futureDate": true
+            }
+        },
+        "ids": [
+            0.045288153786040786
+        ],
+        "loading": false,
+        "error": null
+    }
+}

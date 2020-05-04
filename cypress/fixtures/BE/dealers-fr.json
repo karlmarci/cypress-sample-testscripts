@@ -1,0 +1,22 @@
+[{
+    "id":null,
+    "externalId":null,
+    "name":"karl",
+    "language":"BE-fr",
+    "street":"123",
+    "houseNo":"456",
+    "postalCode":"789",
+    "city":"Pasay City",
+    "country":"BE",
+    "businessPhone":null,
+    "email":null,
+    "website":null,
+    "latitude":null,
+    "longitude":null,
+    "survey":null,
+    "$$preferred":false,
+    "$$position":"1"
+}]
+
+
+

@@ -1,0 +1,33 @@
+{
+    "dealer": null,
+    "businessType": 1,
+    "language": "BE-fr",
+    "country": "BE",
+    "givenName": "Karl",
+    "familyName": "Test",
+    "houseNo": "111",
+    "postalCode": "12340",
+    "city": "Pasay",
+    "street1": "421",
+    "street2": "",
+    "birthdate": "2019-10-22",
+    "dateObj": {
+        "date": {
+            "year": 2019,
+            "month": 10,
+            "day": 22
+        },
+        "jsdate": "2019-10-21T16:00:00.000Z",
+        "formatted": "22.10.2019",
+        "epoc": 1571673600
+    },
+    "telephonePrefix": "+32",
+    "telephone": "123456789",
+    "mobilePrefix": "+32",
+    "mobile": null,
+    "email": "karl.marcelino@ffuf.de",
+    "gender": 1,
+    "salutation": "1",
+    "preference": null,
+    "products": null
+}

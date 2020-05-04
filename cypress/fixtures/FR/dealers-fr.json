@@ -1,0 +1,19 @@
+{
+    "id":null,
+    "externalId":null,
+    "name":"Karl Ian",
+    "language":"FR-fr",
+    "street":"Celeridad",
+    "houseNo":"12345",
+    "postalCode":"123",
+    "city":"Pasay",
+    "country":"BE",
+    "businessPhone":null,
+    "email":null,
+    "website":null,
+    "latitude":null,
+    "longitude":null,
+    "survey":null,
+    "$$preferred":false,
+    "$$position":"1"
+}
